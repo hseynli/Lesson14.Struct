@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson14.Struct\19.DateOnly\bin\Debug\net6.0\19.DateOnly.exe
+D:\Projects\VS Projects\Lesson14.Struct\19.DateOnly\bin\Debug\net6.0\19.DateOnly.deps.json
+D:\Projects\VS Projects\Lesson14.Struct\19.DateOnly\bin\Debug\net6.0\19.DateOnly.runtimeconfig.json
+D:\Projects\VS Projects\Lesson14.Struct\19.DateOnly\bin\Debug\net6.0\19.DateOnly.dll
+D:\Projects\VS Projects\Lesson14.Struct\19.DateOnly\bin\Debug\net6.0\19.DateOnly.pdb
+D:\Projects\VS Projects\Lesson14.Struct\19.DateOnly\obj\Debug\net6.0\19.DateOnly.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson14.Struct\19.DateOnly\obj\Debug\net6.0\19.DateOnly.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson14.Struct\19.DateOnly\obj\Debug\net6.0\19.DateOnly.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson14.Struct\19.DateOnly\obj\Debug\net6.0\19.DateOnly.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson14.Struct\19.DateOnly\obj\Debug\net6.0\19.DateOnly.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson14.Struct\19.DateOnly\obj\Debug\net6.0\19.DateOnly.dll
+D:\Projects\VS Projects\Lesson14.Struct\19.DateOnly\obj\Debug\net6.0\refint\19.DateOnly.dll
+D:\Projects\VS Projects\Lesson14.Struct\19.DateOnly\obj\Debug\net6.0\19.DateOnly.pdb
+D:\Projects\VS Projects\Lesson14.Struct\19.DateOnly\obj\Debug\net6.0\19.DateOnly.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson14.Struct\19.DateOnly\obj\Debug\net6.0\ref\19.DateOnly.dll

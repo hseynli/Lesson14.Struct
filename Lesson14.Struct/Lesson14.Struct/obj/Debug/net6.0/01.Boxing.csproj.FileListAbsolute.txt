@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson14.Struct\Lesson14.Struct\bin\Debug\net6.0\01.Boxing.exe
+D:\Projects\VS Projects\Lesson14.Struct\Lesson14.Struct\bin\Debug\net6.0\01.Boxing.deps.json
+D:\Projects\VS Projects\Lesson14.Struct\Lesson14.Struct\bin\Debug\net6.0\01.Boxing.runtimeconfig.json
+D:\Projects\VS Projects\Lesson14.Struct\Lesson14.Struct\bin\Debug\net6.0\01.Boxing.dll
+D:\Projects\VS Projects\Lesson14.Struct\Lesson14.Struct\bin\Debug\net6.0\01.Boxing.pdb
+D:\Projects\VS Projects\Lesson14.Struct\Lesson14.Struct\obj\Debug\net6.0\01.Boxing.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson14.Struct\Lesson14.Struct\obj\Debug\net6.0\01.Boxing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson14.Struct\Lesson14.Struct\obj\Debug\net6.0\01.Boxing.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson14.Struct\Lesson14.Struct\obj\Debug\net6.0\01.Boxing.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson14.Struct\Lesson14.Struct\obj\Debug\net6.0\01.Boxing.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson14.Struct\Lesson14.Struct\obj\Debug\net6.0\01.Boxing.dll
+D:\Projects\VS Projects\Lesson14.Struct\Lesson14.Struct\obj\Debug\net6.0\refint\01.Boxing.dll
+D:\Projects\VS Projects\Lesson14.Struct\Lesson14.Struct\obj\Debug\net6.0\01.Boxing.pdb
+D:\Projects\VS Projects\Lesson14.Struct\Lesson14.Struct\obj\Debug\net6.0\01.Boxing.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson14.Struct\Lesson14.Struct\obj\Debug\net6.0\ref\01.Boxing.dll

@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson14.Struct\20.TimeOnly\bin\Debug\net6.0\20.TimeOnly.exe
+D:\Projects\VS Projects\Lesson14.Struct\20.TimeOnly\bin\Debug\net6.0\20.TimeOnly.deps.json
+D:\Projects\VS Projects\Lesson14.Struct\20.TimeOnly\bin\Debug\net6.0\20.TimeOnly.runtimeconfig.json
+D:\Projects\VS Projects\Lesson14.Struct\20.TimeOnly\bin\Debug\net6.0\20.TimeOnly.dll
+D:\Projects\VS Projects\Lesson14.Struct\20.TimeOnly\bin\Debug\net6.0\20.TimeOnly.pdb
+D:\Projects\VS Projects\Lesson14.Struct\20.TimeOnly\obj\Debug\net6.0\20.TimeOnly.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson14.Struct\20.TimeOnly\obj\Debug\net6.0\20.TimeOnly.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson14.Struct\20.TimeOnly\obj\Debug\net6.0\20.TimeOnly.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson14.Struct\20.TimeOnly\obj\Debug\net6.0\20.TimeOnly.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson14.Struct\20.TimeOnly\obj\Debug\net6.0\20.TimeOnly.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson14.Struct\20.TimeOnly\obj\Debug\net6.0\20.TimeOnly.dll
+D:\Projects\VS Projects\Lesson14.Struct\20.TimeOnly\obj\Debug\net6.0\refint\20.TimeOnly.dll
+D:\Projects\VS Projects\Lesson14.Struct\20.TimeOnly\obj\Debug\net6.0\20.TimeOnly.pdb
+D:\Projects\VS Projects\Lesson14.Struct\20.TimeOnly\obj\Debug\net6.0\20.TimeOnly.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson14.Struct\20.TimeOnly\obj\Debug\net6.0\ref\20.TimeOnly.dll

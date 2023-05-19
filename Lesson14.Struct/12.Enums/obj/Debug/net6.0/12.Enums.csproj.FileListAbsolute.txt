@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson14.Struct\12.Enums\bin\Debug\net6.0\12.Enums.exe
+D:\Projects\VS Projects\Lesson14.Struct\12.Enums\bin\Debug\net6.0\12.Enums.deps.json
+D:\Projects\VS Projects\Lesson14.Struct\12.Enums\bin\Debug\net6.0\12.Enums.runtimeconfig.json
+D:\Projects\VS Projects\Lesson14.Struct\12.Enums\bin\Debug\net6.0\12.Enums.dll
+D:\Projects\VS Projects\Lesson14.Struct\12.Enums\bin\Debug\net6.0\12.Enums.pdb
+D:\Projects\VS Projects\Lesson14.Struct\12.Enums\obj\Debug\net6.0\12.Enums.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson14.Struct\12.Enums\obj\Debug\net6.0\12.Enums.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson14.Struct\12.Enums\obj\Debug\net6.0\12.Enums.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson14.Struct\12.Enums\obj\Debug\net6.0\12.Enums.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson14.Struct\12.Enums\obj\Debug\net6.0\12.Enums.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson14.Struct\12.Enums\obj\Debug\net6.0\12.Enums.dll
+D:\Projects\VS Projects\Lesson14.Struct\12.Enums\obj\Debug\net6.0\refint\12.Enums.dll
+D:\Projects\VS Projects\Lesson14.Struct\12.Enums\obj\Debug\net6.0\12.Enums.pdb
+D:\Projects\VS Projects\Lesson14.Struct\12.Enums\obj\Debug\net6.0\12.Enums.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson14.Struct\12.Enums\obj\Debug\net6.0\ref\12.Enums.dll

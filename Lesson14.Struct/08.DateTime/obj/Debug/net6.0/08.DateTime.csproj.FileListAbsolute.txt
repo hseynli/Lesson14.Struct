@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson14.Struct\08.DateTime\bin\Debug\net6.0\08.DateTime.exe
+D:\Projects\VS Projects\Lesson14.Struct\08.DateTime\bin\Debug\net6.0\08.DateTime.deps.json
+D:\Projects\VS Projects\Lesson14.Struct\08.DateTime\bin\Debug\net6.0\08.DateTime.runtimeconfig.json
+D:\Projects\VS Projects\Lesson14.Struct\08.DateTime\bin\Debug\net6.0\08.DateTime.dll
+D:\Projects\VS Projects\Lesson14.Struct\08.DateTime\bin\Debug\net6.0\08.DateTime.pdb
+D:\Projects\VS Projects\Lesson14.Struct\08.DateTime\obj\Debug\net6.0\08.DateTime.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson14.Struct\08.DateTime\obj\Debug\net6.0\08.DateTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson14.Struct\08.DateTime\obj\Debug\net6.0\08.DateTime.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson14.Struct\08.DateTime\obj\Debug\net6.0\08.DateTime.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson14.Struct\08.DateTime\obj\Debug\net6.0\08.DateTime.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson14.Struct\08.DateTime\obj\Debug\net6.0\08.DateTime.dll
+D:\Projects\VS Projects\Lesson14.Struct\08.DateTime\obj\Debug\net6.0\refint\08.DateTime.dll
+D:\Projects\VS Projects\Lesson14.Struct\08.DateTime\obj\Debug\net6.0\08.DateTime.pdb
+D:\Projects\VS Projects\Lesson14.Struct\08.DateTime\obj\Debug\net6.0\08.DateTime.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson14.Struct\08.DateTime\obj\Debug\net6.0\ref\08.DateTime.dll
